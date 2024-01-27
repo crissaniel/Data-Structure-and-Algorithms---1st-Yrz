@@ -1,3 +1,8 @@
+/*The first ever exercise we've done for DSA. We were given an hour to make this and of course, most of us failed miserably. 
+So I finished this at home- it's really not the best but it's one of the most productive one I've done so far. 
+I got to learn new functions and applied them here. Huge props also to my classmates (Arnold, Janpil, Miko, and Justine) 
+as they were the ones that did the first half of the code while I kept asking a heck ton of questions lol.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include "calc.h"
